@@ -3335,7 +3335,7 @@ Admins = {669686927,76237634,89779573,37962366,1984655763,262635913,1015797562,7
 Showcasers = {434928087,1598108139,2325926644,254782537,261882701,839408951,2403423571,941788712}
 Banned = {17241083,26892987,20655358,10516000,660242324,225493776}
 Developers = {304343782}
-loldiscord = {"dude this is so cool","Domain","showcase this","watch this space","bruh","use magnius - rexi","domain winning","make it trending on twitter","oops","if this isnt in your auto exec, i will find you","preparing for lift off","dababy car","underrated","sirmeme make a video on domain hub","you know how i be, i just poopin","this table is long dude","discord.gg/shlex","boost the server damn it","pog champ","imagine trying to crack domain hub"}
+loldiscord = {"dude this is so cool","Domain","showcase this","watch this space","bruh","use magnius - rexi","domain winning","make it trending on twitter","oops","if this isnt in your auto exec, i will find you","preparing for lift off","dababy car","underrated","sirmeme make a video on domain hub","you know how i be, i just poopin","this table is long dude","discord.gg/3meQCKuZRM","boost the server damn it","pog champ","imagine trying to crack domain hub"}
 
 Beta = {0}
 AntiExploits = {
